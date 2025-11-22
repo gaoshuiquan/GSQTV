@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of GSQTV Web",
+  "description": "A TV-style media interface for Android TV and Web. Features VOD config integration, IPTV streaming, and AI-powered recommendations. (Note: This is a React Web version of the requested app, as I cannot generate binary APK files directly. You can run this in a browser on your TV).",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
